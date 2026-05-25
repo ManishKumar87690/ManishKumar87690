@@ -30,9 +30,9 @@
 ```javascript
 const manish = {
   name: "Manish Kumar",
-  location: "Sirsa, Haryana, India 🇮🇳",
   role: "Frontend Developer & UI Engineer",
   education: "Computer Science",
+  location: "Sirsa, Haryana, India 🇮🇳",
   currentFocus: ["React", "Next.js", "TypeScript"],
   hobbies: ["Coding", "UI Design", "Open Source"],
   funFact: "I turn ☕ coffee into beautiful UIs",
